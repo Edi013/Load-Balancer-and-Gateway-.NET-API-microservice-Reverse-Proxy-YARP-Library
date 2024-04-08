@@ -1,0 +1,1 @@
+# YARP - Load balancer and gateway, reverse proxy concept, for scalling horizontally any .NET app, either monolith or microservice.
